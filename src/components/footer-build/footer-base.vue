@@ -77,15 +77,15 @@
           </a>
 
           <!-- TWITTER  -->
-          <a
-            href="https://m.youtube.com/channel/UCJJoTLbK7u9v-NtPw66cTqQ"
-            class="social-circle"
-          >
+          <a href="https://twitter.com/iAppgh?s=20" class="social-circle">
             <div class="icon icon-twitter"></div>
           </a>
 
           <!-- YOUTUBE  -->
-          <a href="https://twitter.com/iAppgh?s=20" class="social-circle">
+          <a
+            href="https://m.youtube.com/channel/UCJJoTLbK7u9v-NtPw66cTqQ"
+            class="social-circle"
+          >
             <div class="icon icon-youtube"></div>
           </a>
         </div>

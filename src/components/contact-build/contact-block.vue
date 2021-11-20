@@ -140,10 +140,7 @@
             </a>
 
             <!-- TWITTER -->
-            <a
-              href="https://m.youtube.com/channel/UCJJoTLbK7u9v-NtPw66cTqQ"
-              class="icon"
-            >
+            <a href="https://twitter.com/iAppgh?s=20" class="icon">
               <span class="icon-twitter"></span>
             </a>
 
